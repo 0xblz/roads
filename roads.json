@@ -5,7 +5,7 @@
     {"name": "Arizona", "abbreviation": "AZ", "mapURL": "https://az511.gov/map"},
     {"name": "Arkansas", "abbreviation": "AR", "mapURL": "https://www.idrivearkansas.com/"},
     {"name": "California", "abbreviation": "CA", "mapURL": "https://quickmap.dot.ca.gov/"},
-    {"name": "Colorado", "abbreviation": "CO", "mapURL": "https://www.cotrip.org/map"},
+    {"name": "Colorado", "abbreviation": "CO", "mapURL": "https://www.cotrip.org/@-105.55775,39.13807,7?show=normalCameras,winterDriving,weatherWarnings"},
     {"name": "Connecticut", "abbreviation": "CT", "mapURL": "https://portal.ct.gov/dot/travel-info/traffic-map"},
     {"name": "Delaware", "abbreviation": "DE", "mapURL": "https://deldot.gov/map/"},
     {"name": "District of Columbia", "abbreviation": "DC", "mapURL": "https://wtop.com/traffic/"},
