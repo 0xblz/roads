@@ -17,7 +17,7 @@
 "https://www.gettingaroundillinois.com/WinterConditions/index.html"},
     {"name": "Indiana", "abbreviation": "IN", "mapURL": "https://indot.carsprogram.org/"},
     {"name": "Iowa", "abbreviation": "IA", "mapURL": "https://www.511ia.org/"},
-    {"name": "Kansas", "abbreviation": "KS", "mapURL": "https://www.kandrive.gov/"},
+    {"name": "Kansas", "abbreviation": "KS", "mapURL": "https://www.kandrive.gov/@-98.18317,38.73737,6?show=roadReports,constructionReports,trafficSpeeds,normalCameras,winterDriving,oversizeLoads,stationsAlert,weatherRadar"},
     {"name": "Kentucky", "abbreviation": "KY", "mapURL": "https://goky.ky.gov/"},
     {"name": "Louisiana", "abbreviation": "LA", "mapURL": "https://www.511la.org/map"},
     {"name": "Maine", "abbreviation": "ME", "mapURL": "https://newengland511.org/map?state=me"},
