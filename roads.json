@@ -43,7 +43,7 @@
     {"name": "Rhode Island", "abbreviation": "RI", "mapURL": "https://www.dot.ri.gov/travel/"},
     {"name": "South Carolina", "abbreviation": "SC", "mapURL": "https://www.511sc.org/"},
     {"name": "South Dakota", "abbreviation": "SD", "mapURL": "https://sd511.org/"},
-    {"name": "Tennessee", "abbreviation": "TN", "mapURL": "https://smartway.tn.gov/traffic"},
+    {"name": "Tennessee", "abbreviation": "TN", "mapURL": "https://smartway.tn.gov/traffic?features=cameras,incident,severeImpact,traffic&position=35.89841941,-86.00384007,7"},
     {"name": "Texas", "abbreviation": "TX", "mapURL": "https://drivetexas.org/"},
     {"name": "Utah", "abbreviation": "UT", "mapURL": "https://udottraffic.utah.gov/"},
     {"name": "Vermont", "abbreviation": "VT", "mapURL": "https://newengland511.org/map?state=vt"},
